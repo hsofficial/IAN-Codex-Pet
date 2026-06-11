@@ -8,9 +8,9 @@
 - `spritesheet.webp`: Codex 펫 애니메이션 스프라이트시트
 - `contact-sheet.png`: 전체 애니메이션 프레임 확인용 이미지
 
-## 적용 방법
+## 적용 방법(Windows 기준)
 
-1. 이 저장소의 `pet.json`과 `spritesheet.webp`를 아래 폴더에 복사합니다.
+1. 이 저장소의 `pet.json`과 `spritesheet.webp`를 아래 폴더에 복사합니다. 이때 `ADMIN`은 자신의 Windows 유저명으로 바꾸면 됩니다.
 
    ```text
    C:\Users\ADMIN\.codex\pets\ian
