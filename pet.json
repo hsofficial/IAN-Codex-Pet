@@ -1,6 +1,7 @@
 {
-    "id":  "ian",
-    "displayName":  "이언",
-    "description":  "아이유 팬클럽 캐릭터 설정을 반영한 노란 우주 고양이 IAN.",
-    "spritesheetPath":  "spritesheet.webp"
+  "id": "ian",
+  "displayName": "이언",
+  "description": "기존 IAN 고양이 캐릭터를 유지하고 16방향 시선 포즈를 추가한 Codex 펫입니다.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
 }
